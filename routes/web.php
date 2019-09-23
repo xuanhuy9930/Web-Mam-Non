@@ -14,3 +14,9 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/danhsach',function(){
+	return view('page.danhsachkhoahoc');
+});
+Route::get('/chi-tiet-khoa-hoc',function(){
+	return view('page.chitietkhoahoc');
+});
