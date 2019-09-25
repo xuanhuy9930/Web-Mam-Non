@@ -16,6 +16,7 @@
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
     
     <link rel="stylesheet" href="css/trangchu.css">
+    <link rel="stylesheet" href="css/header1.css">
     <!-- CSS libs -->
     @yield('css')
     <!-- JS libs --> 
