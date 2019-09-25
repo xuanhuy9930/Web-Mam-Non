@@ -12,11 +12,17 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('page.home');
 });
 Route::get('/danhsach',function(){
 	return view('page.danhsachkhoahoc');
 });
 Route::get('/chi-tiet-khoa-hoc',function(){
 	return view('page.chitietkhoahoc');
+});
+Route::get('gioithieu', function () {
+    return view('page.gioithieu');
+});
+Route::get('lienhe', function () {
+    return view('page.lienhe');
 });
