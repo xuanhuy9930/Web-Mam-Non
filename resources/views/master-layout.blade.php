@@ -2,11 +2,13 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <base href="{{ asset('') }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>Mầm Non - @yield('title')</title>
     <link rel="shortcut icon" type="image/x-icon" href="" />
     <!-- CSS libs -->
-    <link rel="stylesheet" type="text/css" href="css/reset-browser.css">
+   
     <link rel="stylesheet" type="text/css" href="libs/bootstrap-4.0.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="libs/font-awesome-full-4.7/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="libs/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css">
@@ -19,9 +21,7 @@
     <!-- CSS libs -->
     @yield('css')
     <!-- JS libs --> 
-    <script type="text/javascript" src="libs/jquery-3.4.1.min.js"></script>
-    <script type="text/javascript" src="libs/bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
-    <script type="text/javascript" src="libs/OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
+    
     <!-- JS libs -->
 </head>
 <body>
@@ -29,6 +29,10 @@
     @yield('content')
     @include('footer')
 </body>
+    <script type="text/javascript" src="libs/jquery-3.4.1.min.js"></script>
+    <script type="text/javascript" src="libs/bootstrap-4.0.0/dist/js/bootstrap.min.js"></script>
+    <script type="text/javascript" src="libs/OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
+    <script src="https://kit.fontawesome.com/d2f7a09671.js"></script>
     <!-- JS libs -->
     <script type="text/javascript" src="libs/slick-1.8.1/slick/slick.min.js"></script>
     <script type="text/javascript" src="libs/OwlCarousel2-2.3.4/dist/owl.carousel.min.js"></script>
