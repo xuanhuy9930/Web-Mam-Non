@@ -14,3 +14,11 @@
 Route::get('/', function () {
     return view('welcome');
 });
+Route::get('/tintuc', function () {
+    return view('page.tintuc');
+});
+Route::get('/chitiettintuc', function () {
+    return view('page.chitiettintuc');
+});
+
+

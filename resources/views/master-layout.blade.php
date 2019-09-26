@@ -14,8 +14,8 @@
     <link rel="stylesheet" type="text/css" href="libs/slick-1.8.1/slick/slick.css">
     <link rel="stylesheet" type="text/css" href="libs/slick-1.8.1/slick/slick-theme.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
-    
     <link rel="stylesheet" href="css/trangchu.css">
+     <link rel="stylesheet" type="text/css" href="libs/font-awesome-full-4.7/css/font-awesome.min.css">
     <!-- CSS libs -->
     @yield('css')
     <!-- JS libs --> 
