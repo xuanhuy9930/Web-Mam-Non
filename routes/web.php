@@ -14,6 +14,16 @@
 Route::get('/', function () {
     return view('page.home');
 });
+<<<<<<< HEAD
+Route::get('/tintuc', function () {
+    return view('page.tintuc');
+});
+Route::get('/chitiettintuc', function () {
+    return view('page.chitiettintuc');
+});
+
+
+=======
 Route::get('/danhsach',function(){
 	return view('page.danhsachkhoahoc');
 });
@@ -26,3 +36,4 @@ Route::get('gioithieu', function () {
 Route::get('lienhe', function () {
     return view('page.lienhe');
 });
+>>>>>>> 0e0064151971f669455d02db4376e1c675361b14
