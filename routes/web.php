@@ -20,4 +20,22 @@ Route::get('/product', function () {
 Route::get('/product-detail', function () {
     return view('page.product-detail');
 })->name('product-detail');
-
+});
+Route::get('/tintuc', function () {
+    return view('page.tintuc');
+});
+Route::get('/chitiettintuc', function () {
+    return view('page.chitiettintuc');
+});
+Route::get('/danhsach',function(){
+	return view('page.danhsachkhoahoc');
+});
+Route::get('/chi-tiet-khoa-hoc',function(){
+	return view('page.chitietkhoahoc');
+});
+Route::get('gioithieu', function () {
+    return view('page.gioithieu');
+});
+Route::get('lienhe', function () {
+    return view('page.lienhe');
+});

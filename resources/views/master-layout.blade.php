@@ -8,7 +8,7 @@
     <title>Mầm Non - @yield('title')</title>
     <link rel="shortcut icon" type="image/x-icon" href="" />
     <!-- CSS libs -->
-   
+
     <link rel="stylesheet" type="text/css" href="libs/bootstrap-4.0.0/dist/css/bootstrap.min.css">
     <link rel="stylesheet" type="text/css" href="libs/font-awesome-full-4.7/css/font-awesome.min.css">
     <link rel="stylesheet" type="text/css" href="libs/OwlCarousel2-2.3.4/dist/assets/owl.carousel.min.css">
@@ -16,12 +16,13 @@
     <link rel="stylesheet" type="text/css" href="libs/slick-1.8.1/slick/slick.css">
     <link rel="stylesheet" type="text/css" href="libs/slick-1.8.1/slick/slick-theme.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
-    
     <link rel="stylesheet" href="css/trangchu.css">
+     <link rel="stylesheet" type="text/css" href="libs/font-awesome-full-4.7/css/font-awesome.min.css">
+    <link rel="stylesheet" href="css/header1.css">
     <!-- CSS libs -->
     @yield('css')
-    <!-- JS libs --> 
-    
+    <!-- JS libs -->
+
     <!-- JS libs -->
 </head>
 <body>

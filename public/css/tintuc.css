@@ -1,0 +1,167 @@
+.head-box{
+	background-color: #ea2a2a;
+	font-size: 18px;
+}
+.thongtin{
+	line-height: 42px;
+	font-size: 18px;
+    font-weight: bold;
+    color: #fff;
+    padding: 3%;
+}
+.thongtin:hover{
+	text-decoration: none;
+	color: #fff;
+}
+.nav-left{
+	padding: 0;
+	margin: 0;
+	background-color:#f0f0e6;
+}
+.nav-left li{
+	list-style: none;
+	padding: 3%;
+	width: 100%;
+	border-bottom: 1px dotted #ea2a2a;
+}
+.li_left{
+	color:#353535;
+}
+.li_leftt{
+	color:#ea2a2a; 
+}
+.nav-left li a:hover{
+	text-decoration: none;
+}
+.img_tintuc {
+	padding-bottom:  5%;
+}
+.img_tintuc img{
+	width: 100%;
+	padding-bottom:  5%;
+}
+.box_tintuc{
+	border: 1px solid #e3e3e3;
+}
+.navv-leftt{
+	padding: 0;
+	margin: 0;
+}
+.navv-leftt li{
+	list-style: none;
+	padding: 3%;
+	width: 100%;
+    border-bottom: 1px dotted #ea2a2a;
+}
+
+.navv-leftt li a:hover{
+	text-decoration: none;
+}
+.op {
+	background-color: #f0f0e6;
+	display: flex;
+}
+.se{
+	margin: auto;
+	display: flex;
+	 width: 80%;
+    height: 35px;
+    margin-top: 5%;
+    border-radius: 5px;
+}
+.nd img{
+	width: 50%;
+	float: left;
+	padding-right: 5%;
+}
+.h2{
+    color:#353535;
+    font-size: 18px;
+    font-weight: 600;
+  
+}
+.h2 a{
+	color: #353535;
+	line-height: 22px;
+}
+.h2 a:hover{
+	text-decoration: none;
+	color:  #0099e6;
+}
+.pp{
+	text-align: justify;
+}
+.nd{
+	padding-right: 7%;
+	border-right: 1px dotted red;
+}
+.right_contenttt{
+	padding: 0;
+	margin: 0;
+}
+.right_contenttt li{
+	list-style: none;
+	padding-bottom: 3%;
+}
+.right_contenttt li a{
+	color: #ea2a2a;
+	margin-right: 2%;
+}
+.right_contenttt li a:hover{
+	text-decoration: none;
+}
+.abc {
+	border: 1px solid #e3e3e3
+}
+.cc .li_left{
+	color: #353535;
+}
+.cc .li_left:hover{
+	color: #007bff;
+}
+.right-home {
+    float: left;
+    width: 100%;
+    margin-bottom: 20px;
+}
+.contentContainer {
+    border: 1px solid #ebf2fa;
+    float: left;
+    width: 100%;
+}
+.newsDetails {
+    padding: 5px 0 15px;
+}
+.entry-title{
+	font-size:30px;
+	font-weight: 400;
+	color: #ea2a2a;
+}
+span {
+	padding-right: 2%;
+}
+.post-meta a{
+   color: #353535;
+}
+.post-meta a:hover{
+	text-decoration: none;
+	color: #007bff;
+}
+.entry-content p{
+    font-size: 16px;
+	line-height: 24px;
+	color: #555555;
+	margin: 0 0 20px;
+}
+ol li{
+color: #ea2a2a;
+}
+ol li h4{
+	color: #ea2a2a;
+	    font-weight: 700;
+    font-size: 18px;
+        line-height: 1.4
+}
+.imggg img{
+	width: 100%;
+}
