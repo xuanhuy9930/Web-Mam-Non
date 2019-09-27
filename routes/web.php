@@ -15,6 +15,15 @@ Route::get('/', function () {
     return view('page.home');
 });
 
+<<<<<<< HEAD
+Route::get('/document', function () {
+    return view('page.document');
+})->name('document');
+
+Route::get('/document_detail', function () {
+    return view('page.document_detail');
+})->name('document_detail');
+=======
 Route::get('/tintuc', function () {
     return view('page.tintuc');
 });
@@ -37,3 +46,4 @@ Route::get('lienhe', function () {
     return view('page.lienhe');
 });
 
+>>>>>>> c35e0ef41d3551d35cdf77da4e15b89c4db277eb
