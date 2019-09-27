@@ -90,3 +90,21 @@ function openNav() {
 function closeNav() {
   document.getElementById("mySidenav").style.width = "0";
 }
+// Back to top
+
+window.onscroll = function() { scrollFunction() };
+
+function scrollFunction() {
+  if (window.pageYOffset > 450) {
+    document.getElementById("back-to-top").style.opacity = "1";
+    document.getElementById("social-btns").style.opacity = "1";
+  } else {
+    document.getElementById("back-to-top").style.opacity = "0";
+    document.getElementById("social-btns").style.opacity = "0";
+  }
+};
+
+document.getElementById("back-to-top").addEventListener("click", backToTop);
+function backToTop() {
+  window.scrollTo(0, 0);
+};

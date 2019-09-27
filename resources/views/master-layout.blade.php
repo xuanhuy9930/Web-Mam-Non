@@ -15,7 +15,7 @@
     <link rel="stylesheet" type="text/css" href="libs/slick-1.8.1/slick/slick-theme.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
     
-    <link rel="stylesheet" href="css/trangchu.css">
+    
     <link rel="stylesheet" href="css/header1.css">
     <!-- CSS libs -->
     @yield('css')

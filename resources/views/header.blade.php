@@ -18,8 +18,8 @@
 						<a class="a-menu" href="dichvu">Khóa Học</a>
 						<ul class="menu-con">
 							<li class="login"><a href="">Tư duy phát triển cho bé</a></li>
-							<li class="login"><a href="/dichvu/baotri">Nhận Thức của trẻ</a></li>
-							<li class="login"><a href="/dichvu/baohanh">Tương lai trẻ thơ</a></li>
+							<li class="login"><a href="">Nhận Thức của trẻ</a></li>
+							<li class="login"><a href="">Tương lai trẻ thơ</a></li>
 
 						</ul>
 					</li>
@@ -30,9 +30,9 @@
 							<li class="login"><a href="">Cho bé đến lớp mỗi ngày</a></li>
 						</ul>
 					</li>
-					<li class="list-menu"><a class="a-menu" href="tintuc">Tin Tức</a></li>
-					<li class="list-menu"><a class="a-menu" href="lienhe">Đồ Chơi</a></li>
-					<li class="list-menu"><a class="a-menu" href="lienhe">Liên Hệ</a></li>
+					<li class="list-menu"><a class="a-menu" href="">Tin Tức</a></li>
+					<li class="list-menu"><a class="a-menu" href="">Đồ Chơi</a></li>
+					<li class="list-menu"><a class="a-menu" href="">Liên Hệ</a></li>
 				</ul>
 			</div>	
 			<span class="menu-rsp container text-right" style="font-size:30px;cursor:pointer;" onclick="openNav()">&#9776;
