@@ -77,10 +77,9 @@
                             <p>Yêu thích Tiếng Anh, hứng thú tự học Tiếng Anh</p>
                             <p>Nắm được quy tắc phát âm chuẩn, trọng âm, ngữ điệu chuẩ</p>
                             <p>Tiếp cận với nguồn tài liệu tự học phong phú: nhạc, truyện, phim, ebook..
-</p>
-<p>Nắm ngữ pháp căn bản, ứng dụng ngữ pháp trong phản xạ nghe nói
-</p>
-                    
+                        </p>
+                        <p>Nắm ngữ pháp căn bản, ứng dụng ngữ pháp trong phản xạ nghe nói
+                        </p>
               </div>        </div>
                     <div class="panel panel-default text-center">
                         <h3><div class="panel-title"><span class="glyphicon glyphicon-credit-card"></span></div></h3>
