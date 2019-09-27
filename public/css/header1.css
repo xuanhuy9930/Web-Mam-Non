@@ -111,6 +111,9 @@ img{
 	text-decoration: none;
 	color: #ea2a2a;
 }
+.menu-con:hover .a-menu{
+	color: #ea2a2a;
+}
 .menu-con{
 	list-style: none;
 	text-align: left;
@@ -139,7 +142,7 @@ img{
 	color: #ea2a2a;
 }
 .new:hover .menu-con{
-	visibility: visible;
+  visibility: visible;
   opacity: 1;
   margin-top: 0px;
   color: #ea2a2a;
