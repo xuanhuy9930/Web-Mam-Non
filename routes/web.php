@@ -12,9 +12,10 @@
 */
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('page.home');
 });
 
+<<<<<<< HEAD
 Route::get('/document', function () {
     return view('page.document');
 })->name('document');
@@ -22,3 +23,27 @@ Route::get('/document', function () {
 Route::get('/document_detail', function () {
     return view('page.document_detail');
 })->name('document_detail');
+=======
+Route::get('/tintuc', function () {
+    return view('page.tintuc');
+});
+Route::get('/chitiettintuc', function () {
+    return view('page.chitiettintuc');
+});
+
+
+
+Route::get('/danhsach',function(){
+	return view('page.danhsachkhoahoc');
+});
+Route::get('/chi-tiet-khoa-hoc',function(){
+	return view('page.chitietkhoahoc');
+});
+Route::get('gioithieu', function () {
+    return view('page.gioithieu');
+});
+Route::get('lienhe', function () {
+    return view('page.lienhe');
+});
+
+>>>>>>> c35e0ef41d3551d35cdf77da4e15b89c4db277eb
