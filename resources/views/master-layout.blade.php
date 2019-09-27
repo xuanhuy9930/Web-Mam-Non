@@ -14,10 +14,15 @@
     <link rel="stylesheet" type="text/css" href="libs/slick-1.8.1/slick/slick.css">
     <link rel="stylesheet" type="text/css" href="libs/slick-1.8.1/slick/slick-theme.css">
     <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed&display=swap" rel="stylesheet">
+<<<<<<< HEAD
+    
+    
+=======
     <link rel="stylesheet" href="css/trangchu.css">
 <<<<<<< HEAD
      <link rel="stylesheet" type="text/css" href="libs/font-awesome-full-4.7/css/font-awesome.min.css">
 =======
+>>>>>>> 1fe49a33465863aa05a96d773670cc7ca473c03c
     <link rel="stylesheet" href="css/header1.css">
 >>>>>>> 0e0064151971f669455d02db4376e1c675361b14
     <!-- CSS libs -->

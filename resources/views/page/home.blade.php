@@ -116,7 +116,7 @@ Trang chủ
 			<div class="col-md-3 tl-noibat">
 				<img src="images-h/tailieu-2.jpg" alt="">
 				<a href="">Tuyển chọn đề thi học sinh giỏi môn Tiếng Anh lớp 6 năm 2018</a>
-				<div class="text-tailieu">
+				<div class="text-tailieu" style="height:20%; background:#fff">
 					<ul>
 						<li><i class="fa fa-calendar"></i> 21/02/2019</li>
 						<li><i class="fa fa-share-square-o"></i> phunphun</li>
@@ -130,10 +130,10 @@ Trang chủ
 			<div class="col-md-3 tl-noibat">
 				<img src="images-h/tailieu-2.jpg" alt="">
 				<a href="">Tuyển chọn đề thi học sinh giỏi môn Tiếng Anh lớp 6 năm 2018</a>
-				<div class="text-tailieu">
+				<div class="text-tailieu" style="height:20%; background:#fff">
 					<ul>
 						<li><i class="fa fa-calendar"></i> 21/02/2019</li>
-						<li><i class="fa fa-calendar"></i> phunphun</li>
+						<li><i class="fa fa-share-square-o"></i> phunphun</li>
 					</ul>
 					<ul>
 						<li><i class="fa fa-file-text-o"></i> 8</li>
@@ -144,10 +144,10 @@ Trang chủ
 			<div class="col-md-3 tl-noibat">
 				<img src="images-h/tailieu-2.jpg" alt="">
 				<a href="">Tuyển chọn đề thi học sinh giỏi môn Tiếng Anh lớp 6 năm 2018</a>
-				<div class="text-tailieu">
+				<div class="text-tailieu" style="height:20%; background:#fff">
 					<ul>
 						<li><i class="fa fa-calendar"></i> 21/02/2019</li>
-						<li><i class="fa fa-calendar"></i> phunphun</li>
+						<li><i class="fa fa-share-square-o"></i> phunphun</li>
 					</ul>
 					<ul>
 						<li><i class="fa fa-file-text-o"></i> 8</li>
@@ -158,10 +158,10 @@ Trang chủ
 			<div class="col-md-3 tl-noibat">
 				<img src="images-h/tailieu-2.jpg" alt="">
 				<a href="">Tuyển chọn đề thi học sinh giỏi môn Tiếng Anh lớp 6 năm 2018</a>
-				<div class="text-tailieu">
+				<div class="text-tailieu" style="height:20%; background:#fff">
 					<ul>
 						<li><i class="fa fa-calendar"></i> 21/02/2019</li>
-						<li><i class="fa fa-calendar"></i> phunphun</li>
+						<li><i class="fa fa-share-square-o"></i> phunphun</li>
 					</ul>
 					<ul>
 						<li><i class="fa fa-file-text-o"></i> 8</li>
@@ -244,7 +244,9 @@ Trang chủ
 		<span class="gia">79.000 vnđ</span>
 		<span class="gia-loai">99.000 vnđ</span>
 	</div>
-
+	<center id="back-to-top" title="Lên đầu trang">
+	<i class="fas fa-chevron-up fa-fw" style="padding-top:18px;"></i>
+</center>
 	
 </div>
 @endsection
